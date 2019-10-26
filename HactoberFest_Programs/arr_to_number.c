@@ -3,6 +3,7 @@
 #include<math.h>
 int main(){
 	int i,dig,number=0;
+	
 	//Read a number to complete the program.
 	int arr[dig];
 	for(i=0;i<dig;i++){
