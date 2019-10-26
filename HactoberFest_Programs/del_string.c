@@ -13,6 +13,7 @@ int main(){
 		/*
 		Write the code to delete num no. of characters from position pos in string text.
 		*/
+		
 		if(i==pos){i=i+num;}
 		new_str[j++]=text[i++];
 		
