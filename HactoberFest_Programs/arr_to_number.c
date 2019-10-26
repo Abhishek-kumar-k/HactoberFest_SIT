@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include<math.h>
 int main(){
+	
 	int i,dig,number=0;
 	//Read a number to complete the program.
 	scanf("%d",&dig);
