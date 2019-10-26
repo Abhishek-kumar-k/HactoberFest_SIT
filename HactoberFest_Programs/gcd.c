@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int gcd(int a,int b){
 	//Write code here
 	int g;
