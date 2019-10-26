@@ -5,6 +5,7 @@ int exp1(int a,int b){
 	else
 		return a*exp1(a,b-1);
 }
+
 int main(){
 	int num1,num2,res=0;
 	printf("\nEnter 2 numbers : ");
