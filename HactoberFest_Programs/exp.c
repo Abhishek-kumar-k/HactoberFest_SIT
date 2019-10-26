@@ -12,4 +12,5 @@ int main(){
 	res=exp1(num1,num2);
 	printf("\nExponent of %d^%d is : %d\n",num1,num2,res);
 	return 0;
+	
 }
