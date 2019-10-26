@@ -5,7 +5,7 @@ int main(){
    int numArr[10]={0};
    int i=0;
    for(i=0;i<10;i++){
-    scanf("%d",&numArr[i]);
+    scanf("%d",&numArr[i]); 
    }
    for(i=0;i<9;i+=3){
     for(int j=i;j<=2+i;j++){
