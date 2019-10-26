@@ -9,7 +9,7 @@ int main(){
 	scanf("%d",&pos);
 	printf("\nEnter the no. of characters to delete: ");
 	scanf("%d",&num);
-	while(text[i]!=NULL){
+	while(text[i]!=NULL){ 
 		/*
 		Write the code to delete num no. of characters from position pos in string text.
 		*/
