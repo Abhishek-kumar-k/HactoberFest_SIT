@@ -20,6 +20,5 @@ int main(){
 		printf("No duplicates found\n");
 	}
 	
-	
 	return 0;
 }
